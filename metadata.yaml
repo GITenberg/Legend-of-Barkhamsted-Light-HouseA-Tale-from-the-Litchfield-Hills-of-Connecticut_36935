@@ -1,0 +1,28 @@
+_repo: Legend-of-Barkhamsted-Light-HouseA-Tale-from-the-Litchfield-Hills-of-Connecticut_36935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mills, Lewis Sprague
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '38544'
+    url: http://www.gutenberg.org/2009/agents/38544
+description: ''
+gutenberg_issued: '2011-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Litchfield (Conn.) -- Poetry'
+title: 'Legend of Barkhamsted Light House
+
+  A Tale from the Litchfield Hills of Connecticut'
+url: http://www.gutenberg.org/ebooks/36935
